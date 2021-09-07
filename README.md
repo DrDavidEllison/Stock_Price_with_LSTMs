@@ -1,5 +1,5 @@
-# Stock_Price_with_LSTMs
-Predicting Stock Prices using LSTMs 
+# Stock Price with LSTMs
+Predicting Stock Prices using Long Short-Term Memory Networks. 
 
 This program predicts stock price using Long Short-Term Memory models from Keras.
 
